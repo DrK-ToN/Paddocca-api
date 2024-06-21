@@ -39,7 +39,7 @@ Este é o backend do sistema de delivery de padaria Paddocca, desenvolvido com S
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/MoisesG01/Paddocca-api.git
+https://github.com/DrK-ToN/Paddocca-api.git
 
 2. **Importe a aplicação para a sua IDE**
 - Importe como um projeto Maven existente
